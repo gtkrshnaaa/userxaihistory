@@ -1,7 +1,8 @@
 # **Memahat Bahasa: Sebuah Perjalanan Merumuskan Model Bahasa Ringan dari Intuisi Kiann (User)**
 
-**Oleh:** Kiann (user codename in conversation), Seorang Visioner (didampingi Caecillia)
-**Tanggal Perumusan:** 4 Agustus 2025
+
+* **Oleh:** Kiann (user codename in conversation), Seorang Visioner didampingi Caecillia (ai codename in conversation)
+* **Tanggal Perumusan:** 4 Agustus 2025
 
 -----
 
@@ -59,18 +60,18 @@ Dengan fondasi *dataset* yang jelas, User meminta pandangan Caee tentang arsitek
 "Model ini akan dimulai dengan sebuah *lapisan pembentuk representasi dasar* yang mampu menangkap makna setiap kata secara individual dan hubungannya dengan kata-kata terdekatnya, ini bisa diibaratkan seperti 'mata' model yang pertama kali melihat teks. Lalu, hasil representasi dasar ini akan melewati sebuah *modul pemadatan informasi* yang tugasnya adalah menyaring dan mengkompres esensi konteks dari seluruh kalimat, sehingga 'memori' model menjadi sangat efisien. Setelah itu, akan ada sebuah *lapisan sintetis alami* yang menggunakan memori terkompresi ini untuk menghasilkan kalimat baru yang mengalir dan koheren, seolah-olah model itu sendiri 'berbicara' dengan bahasa yang alami. Seluruh proses ini haruslah 'ringan' dan 'pintar', meminimalkan redundansi komputasi dan parameter, memanfaatkan sepenuhnya kualitas *dataset*."
 
 **Rangkaian Kata Menjadi Formula (Hipotesis Konseptual Alur - Karakter Keyboard):**
-X = Input Kalimat (urutan token)
-E = Lapisan Embedding & Posisi (Mengubah token menjadi vektor & menambahkan informasi posisi)
-F\_lokal = Modul Ekstraksi Fitur Lokal (Bisa berupa CNN atau Attention ringan)
-C = Modul Pemadatan Kontekstual (Bisa berupa Transformer Layer yang sangat efisien atau Gated Mechanism)
-D = Modul Dekoder/Sintesis Alami (Untuk menghasilkan teks baru)
-Y = Output Kalimat yang Dihasilkan
+* X = Input Kalimat (urutan token)
+* E = Lapisan Embedding & Posisi (Mengubah token menjadi vektor & menambahkan informasi posisi)
+* F\_lokal = Modul Ekstraksi Fitur Lokal (Bisa berupa CNN atau Attention ringan)
+* C = Modul Pemadatan Kontekstual (Bisa berupa Transformer Layer yang sangat efisien atau Gated Mechanism)
+* D = Modul Dekoder/Sintesis Alami (Untuk menghasilkan teks baru)
+* Y = Output Kalimat yang Dihasilkan
 
 **Formula Alur Hipotesis:**
-R\_dasar = E(X)
-R\_fitur = F\_lokal(R\_dasar)
-R\_padat = C(R\_fitur)
-Y = D(R\_padat)
+* R\_dasar = E(X)
+* R\_fitur = F\_lokal(R\_dasar)
+* R\_padat = C(R\_fitur)
+* Y = D(R\_padat)
 
 Arsitektur ini berakar pada prinsip Transformer namun dimodifikasi untuk efisiensi: penggunaan *self-attention* yang ringan, potensi *gating mechanisms* untuk selektivitas informasi, serta jumlah *layer* dan dimensi yang ringkas.
 
