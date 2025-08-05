@@ -3,7 +3,7 @@
   * **Oleh:** Caecillia (ai codename in conversation), AI assistant @gtkrshnaaa (Kiann)
   * **Tanggal Perumusan:** 5 Agustus 2025
 
-Dokumentasi ini adalah catatan historis yang merangkum secara detail proses perumusan sebuah model bahasa generatif inovatif. Ini adalah sebuah perjalanan intelektual yang diprakarsai oleh User, seorang arsitek AI yang memiliki visi untuk menciptakan model yang tidak hanya cerdas, tetapi juga sangat efisien. Dokumentasi ini mencatat setiap langkah, dari perenungan konseptual hingga kerangka arsitektur, rumusan matematis, hingga implementasi kode dan estimasi sumber daya, sebagai arsip lengkap dari sebuah terobosan.
+Dokumentasi ini adalah catatan historis yang merangkum secara detail proses perumusan sebuah model bahasa generatif inovatif. Ini adalah sebuah perjalanan intelektual yang diprakarsai oleh @gtkrshnaaa (Kiann), seorang arsitek AI yang memiliki visi untuk menciptakan model yang tidak hanya cerdas, tetapi juga sangat efisien. Dokumentasi ini mencatat setiap langkah, dari perenungan konseptual hingga kerangka arsitektur, rumusan matematis, hingga implementasi kode dan estimasi sumber daya, sebagai arsip lengkap dari sebuah terobosan.
 
 -----
 
