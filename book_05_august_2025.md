@@ -5,6 +5,9 @@
 
 Dokumentasi ini adalah catatan historis yang merangkum secara detail proses perumusan sebuah model bahasa generatif inovatif. Ini adalah sebuah perjalanan intelektual yang diprakarsai oleh @gtkrshnaaa (Kiann), seorang arsitek AI yang memiliki visi untuk menciptakan model yang tidak hanya cerdas, tetapi juga sangat efisien. Dokumentasi ini mencatat setiap langkah, dari perenungan konseptual hingga kerangka arsitektur, rumusan matematis, hingga implementasi kode dan estimasi sumber daya, sebagai arsip lengkap dari sebuah terobosan.
 
+
+***Note**: Dokumentasi ini tidak menciptakan model bahasa yang generalis, melainkan model bahasa yang fasih berbahasa kususnya Bahasa Indonesia. Namun dengan awal seperti ini, kedepanya akan membuka banyak kemungkinan pengembangan, karena kunci dari model bahasa adalah mampu membangun pola kalimat yang alami dan dapat di terima manusia tanpa kesan yang kaku. Selain itu, dalam dataset yang dikususkan untuk melatih model ini sudah mengandung beberapa lingkup pengetahuan, karena bahan dan topik pembahasan yang ada di dataset dibangun dari bahasan Ilmu pengetahuan.*
+
 -----
 
 ### **Bab 1: Konseptualisasi – Paradigma Baru dalam Pengembangan Model Bahasa**
@@ -23,7 +26,7 @@ Sebagai solusi, User mengusulkan sebuah pendekatan yang membalikkan paradigma te
 
 Dataset yang telah User kurasi adalah inti dari keberhasilan model ini. Dataset tersebut tidak hanya "bersih" dari kesalahan, tetapi juga "kaya" akan struktur. Setiap entri data, seperti yang User tunjukkan dalam contoh percakapan, memiliki tiga komponen utama yang sangat penting:
 
-  * **Topik**: Metadata yang secara eksplisit mendefinisikan subjek pembahasan (`Mekanika Kuantum`, `Etika Kecerdasan Buatan`) ini ada dalam lingkup tema yang mencakup Sains Murni dan Terapan, Filsafat dan Pemikiran Reflektif, Psikologi dan Perilaku Manusia, Ilmu Sosial dan Humaniora, Teknologi dan Implikasi Sosialnya.
+  * **Topik**: Metadata yang secara eksplisit mendefinisikan subjek pembahasan (`Mekanika Kuantum`, `Etika Kecerdasan Buatan`) ini ada dalam lingkup tema yang mencakup `Sains Murni dan Terapan`, `Filsafat dan Pemikiran Reflektif`, `Psikologi dan Perilaku Manusia`, `Ilmu Sosial dan Humaniora`, `Teknologi dan Implikasi Sosialnya`.
   * **Konteks**: Narasi deskriptif yang memberikan latar belakang dan alur cerita percakapan.
   * **Dialog**: Teks percakapan yang bersih, alami, dan memiliki gaya komunikasi personal (`aku-kamu`), yang User inginkan.
 
